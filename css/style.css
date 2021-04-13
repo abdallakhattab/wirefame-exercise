@@ -1,0 +1,63 @@
+header {
+background-color: rgb(63, 59, 59);
+
+height: 100px;
+
+}
+body header ul li a {
+
+    text-decoration: none;
+    color: white;
+    margin: 30px;
+    font-size: 25px;
+    position: relative;
+    bottom: 40px;
+}
+body header ul li {
+
+    display: inline-block;
+    
+
+}
+body header ul li img {
+padding: 15px;
+}
+main div img {
+
+padding-left: 120px;
+
+}
+main div section img {
+    padding: 15px;
+    
+
+
+
+}
+main div section {
+width: 60%;
+position: absolute;
+left: 32%;
+top: 555px;
+padding-left: 6px;
+}
+
+main img{
+    padding-left: 120px ;
+    
+}
+main p {
+    margin: 0%;
+    width: 50%;
+    position: absolute;
+    left: 48%;
+    
+    top: 970px;
+
+
+}
+footer {
+    height: 100px;
+background-color:rgb(63, 59, 59); 
+
+}
